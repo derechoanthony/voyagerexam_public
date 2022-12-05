@@ -1,0 +1,17 @@
+# Port number
+PORT=3000
+HOST=localhost
+
+# URL of the Mongo DB
+MONGODB_URL=mongodb+srv://anthonyderecho:$3rVerus1..a@cluster0.ejokl.mongodb.net/test?retryWrites=true&w=majority
+
+
+MONGO_IMAGE_TAG=bionic
+
+MONGO_INITDB_ROOT_USERNAME=root
+MONGO_INITDB_ROOT_PASSWORD=m4r14
+
+MONGO_INITDB_DATABASE=exam
+MONGO_INITDB_COLLECTION_USERS=db
+
+
