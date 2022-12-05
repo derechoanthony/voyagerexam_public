@@ -1,0 +1,26 @@
+[
+    {
+    "id": "1",
+    "name": "Joe Bloggs",
+    "username": "joe.bloggs",
+    "phone": "094441234",
+    "email": "joe.bloggs@example.com",
+    "company_id": "1"
+    },
+    {
+    "id": "2",
+    "name": "Noddy Bigears",
+    "username": "Noddy.Bigears",
+    "phone": "031236666",
+    "email": "Noddy.Bigears@example.com",
+    "company_id": "5"
+    },
+    {
+    "id": "3",
+    "name": "John Smith",
+    "username": "John.Smith",
+    "phone": "043365894",
+    "email": "John.Smith@example.com",
+    "company_id": "1"
+    }
+    ]
